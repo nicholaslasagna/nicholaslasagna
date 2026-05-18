@@ -1,5 +1,3 @@
-# Nicholas Lasagna
-
 Systems-focused software engineer building distributed infrastructure, multiplayer platforms, AI-assisted tooling, and full-stack applications.
 
 ## Technologies
