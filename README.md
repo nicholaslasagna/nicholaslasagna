@@ -96,16 +96,6 @@ Engine Architecture (UE5)        ███████████████�
 
 ---
 
-| 🌐 HeartHaven Web Platform | 📚 UnitedExams Dashboard |
-| --- | --- |
-|  |  |
-|  |  |
-
-| ☁️ RealFiction Cloud Dash | 🦀 NemesisSSBU Runtime |
-| --- | --- |
-|  |  |
-|  |  |
-
 ```text
 📐 Identify Core Bottleneck (Memory, Concurrency, or Network)
    │
