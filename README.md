@@ -82,16 +82,16 @@ Engine Architecture (UE5)        ███████████████�
 
 | 🔧 Operation | ⚙️ What It Does | 🛠 Stack | 🏆 |
 | --- | --- | --- | --- |
-| **[RealFiction Infrastructure](https://github.com/nicholaslasagna)** | Architected and operated distributed multiplayer server infrastructure utilizing Folia multithreading. | `Java` `OCI` `Ubuntu` | ☁️ |
-| **[NemesisSSBU](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/NemesisSSBU)** | Engineered performance-sensitive runtime tooling focused strictly on memory safety and concurrency. | `Rust` `Runtime` | 🦀 |
-| **[RealChat Automation](https://github.com/nicholaslasagna)** | High-performance desktop automation system integrating OCR pipelines with system-level fail-safes. | `Python` `OCR` | ⚙️ |
+| **[RealFiction Overview](https://realfiction.live)** | Architected and operated distributed multiplayer server infrastructure utilizing Folia multithreading. | `Java` `OCI` `Ubuntu` | ☁️ |
+| **[Rust Runtime Modification Profile](https://github.com/NemesisSSBU)** | Engineered performance-sensitive runtime tooling focused strictly on memory safety and concurrency. | `Rust` `Runtime` | 🦀 |
+| **[RealChat Automation](https://github.com/nicholaslasagna/realchat)** | High-performance desktop automation system integrating OCR pipelines with system-level fail-safes. | `Python` `OCR` | ⚙️ |
 
 ### 🌐 Full-Stack & Platforms
 
 | 🔧 Operation | ⚙️ What It Does | 🛠 Stack | 🏆 |
 | --- | --- | --- | --- |
-| **[HeartHaven](https://github.com/nicholaslasagna)** | Real-time multiplayer interactive web platform featuring persistent user systems and RLS databases. | `Next.js` `Supabase` | 🌐 |
-| **[UnitedExams](https://github.com/nicholaslasagna)** | Scalable educational platform with secure backend architecture, leaderboards, and adaptive systems. | `Next.js` `PostgreSQL` | 📚 |
+| **[HeartHaven](https://github.com/nicholaslasagna/HeartHaven)** | Real-time multiplayer interactive web platform featuring persistent user systems and RLS databases. | `Next.js` `Supabase` | 🌐 |
+| **[UnitedExams](https://github.com/nicholaslasagna/unitedexams)** | Scalable educational platform with secure backend architecture, leaderboards, and adaptive systems. | `Next.js` `PostgreSQL` | 📚 |
 | **[Imagicast Studios](https://github.com/nicholaslasagna)** | Co-founded studio developing 6v1v1 asymmetrical multiplayer infrastructure & runtime engine logic. | `UE5` `C++` | 🎮 |
 
 ---
