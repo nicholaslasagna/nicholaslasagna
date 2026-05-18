@@ -6,14 +6,14 @@
 
 <br/><br/>
 
-<a href="https://github.com/Maze77-AH?tab=followers"><img src="https://img.shields.io/github/followers/Maze77-AH?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=2d3748" alt="GitHub followers" /></a>
+<a href="https://github.com/nicholaslasagna?tab=followers"><img src="https://img.shields.io/github/followers/nicholaslasagna?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=2d3748" alt="GitHub followers" /></a>
 <a href="https://linkedin.com/in/nicholas-lasagna-798118277"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/NemesisSSBU"><img src="https://img.shields.io/badge/Alt_GitHub-NemesisSSBU-000000?style=for-the-badge&logo=github&logoColor=white" alt="Secondary GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Maze77-AH&color=0ea5e9&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
-<a href="https://github.com/Maze77-AH"><img src="https://img.shields.io/github/stars/Maze77-AH?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=nicholaslasagna&color=0ea5e9&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+<a href="https://github.com/nicholaslasagna"><img src="https://img.shields.io/github/stars/nicholaslasagna?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" /></a>
 
 </div>
 
@@ -82,17 +82,17 @@ Engine Architecture (UE5)        ███████████████�
 
 | 🔧 Operation | ⚙️ What It Does | 🛠 Stack | 🏆 |
 | --- | --- | --- | --- |
-| **[RealFiction Infrastructure](https://github.com/Maze77-AH)** | Architected and operated distributed multiplayer server infrastructure utilizing Folia multithreading. | `Java` `OCI` `Ubuntu` | ☁️ |
+| **[RealFiction Infrastructure](https://github.com/nicholaslasagna)** | Architected and operated distributed multiplayer server infrastructure utilizing Folia multithreading. | `Java` `OCI` `Ubuntu` | ☁️ |
 | **[NemesisSSBU](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/NemesisSSBU)** | Engineered performance-sensitive runtime tooling focused strictly on memory safety and concurrency. | `Rust` `Runtime` | 🦀 |
-| **[RealChat Automation](https://github.com/Maze77-AH)** | High-performance desktop automation system integrating OCR pipelines with system-level fail-safes. | `Python` `OCR` | ⚙️ |
+| **[RealChat Automation](https://github.com/nicholaslasagna)** | High-performance desktop automation system integrating OCR pipelines with system-level fail-safes. | `Python` `OCR` | ⚙️ |
 
 ### 🌐 Full-Stack & Platforms
 
 | 🔧 Operation | ⚙️ What It Does | 🛠 Stack | 🏆 |
 | --- | --- | --- | --- |
-| **[HeartHaven](https://github.com/Maze77-AH)** | Real-time multiplayer interactive web platform featuring persistent user systems and RLS databases. | `Next.js` `Supabase` | 🌐 |
-| **[UnitedExams](https://github.com/Maze77-AH)** | Scalable educational platform with secure backend architecture, leaderboards, and adaptive systems. | `Next.js` `PostgreSQL` | 📚 |
-| **[Imagicast Studios](https://github.com/Maze77-AH)** | Co-founded studio developing 6v1v1 asymmetrical multiplayer infrastructure & runtime engine logic. | `UE5` `C++` | 🎮 |
+| **[HeartHaven](https://github.com/nicholaslasagna)** | Real-time multiplayer interactive web platform featuring persistent user systems and RLS databases. | `Next.js` `Supabase` | 🌐 |
+| **[UnitedExams](https://github.com/nicholaslasagna)** | Scalable educational platform with secure backend architecture, leaderboards, and adaptive systems. | `Next.js` `PostgreSQL` | 📚 |
+| **[Imagicast Studios](https://github.com/nicholaslasagna)** | Co-founded studio developing 6v1v1 asymmetrical multiplayer infrastructure & runtime engine logic. | `UE5` `C++` | 🎮 |
 
 ---
 
