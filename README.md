@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=300&section=header&text=Nicholas%20Lasagna&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Software%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20Developer%20Tools&descAlignY=60&descSize=22&descAlign=50" width="100%" alt="Nicholas Lasagna — Software, Systems, and AI Developer Tools"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=0ea5e9&center=true&vCenter=true&width=860&lines=Hey!+I'm+Nicholas+>_;Software+%26+AI+Developer+Tools;Texas+Tech+Accelerated+BS%2FMS+CS;Seeking+Summer+2027+Internships;Multiplayer+Systems+%26+Compiler+Experiments;Java+%7C+Python+%7C+Rust+%7C+TypeScript" alt="Computer Science student building software systems and AI developer tools; seeking Summer 2027 internships"/>
+**AI developer tools · Backend systems**
 
-<br/><br/>
+Summer 2027 internships · Berkeley, CA / San Francisco Bay Area / Remote
+
+<br/>
 
 <a href="https://nicholaslasagna.com"><img src="https://img.shields.io/badge/Portfolio-nicholaslasagna.com-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://nicholaslasagna.com/Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2d3748?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Résumé PDF" /></a>
@@ -12,45 +14,32 @@
 <a href="https://linkedin.com/in/nicholas-lasagna-798118277"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/NemesisSSBU"><img src="https://img.shields.io/badge/Alt_GitHub-NemesisSSBU-000000?style=for-the-badge&logo=github&logoColor=white" alt="Secondary GitHub" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nicholaslasagna&color=0ea5e9&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
-<a href="https://github.com/nicholaslasagna"><img src="https://img.shields.io/github/stars/nicholaslasagna?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" /></a>
-
 </div>
 
 ---
 
-### ⚡ System status
+### Start here
 
-```text
-Nicholas Lasagna
-├─ Status     Seeking Summer 2027 software & AI internships
-├─ Home       Berkeley, CA · San Francisco Bay Area / Remote
-├─ Education  Accelerated BS/MS Computer Science · Texas Tech
-├─ B.S.       Expected May 2027 · Mathematics minor
-├─ M.S.       Expected May 2028
-└─ Focus      AI developer tools · Backend · Multiplayer systems
-```
+I’m a Computer Science student at Texas Tech in the accelerated B.S./M.S. program (expected B.S. May 2027 and M.S. May 2028). I build tools for reviewing AI-generated code and co-own a live multiplayer network.
 
-I'm a Computer Science student and co-founder of Imagicast Studios. I build multiplayer systems, full-stack applications, and tools for AI-assisted development. My work ranges from operating Minecraft infrastructure on Oracle Cloud to experimenting with compiler diagnostics and local-first coding workflows.
-
-I'm looking for a **Summer 2027 software or AI engineering internship**, especially in developer tools, backend engineering, or systems. My home base is Berkeley, and I'm focused on San Francisco Bay Area and remote opportunities.
+- **[RealForge Workbench downloads](https://github.com/nicholaslasagna/RealForge-releases/releases)**: Apple Silicon macOS preview. Inspect a proposed diff before deciding whether to apply it. [How it works and what you’ll need](https://nicholaslasagna.com/#realforge).
+- **[RealFiction engineering case study](https://nicholaslasagna.com/#realfiction-case-study)**: I lead technical operations across seven Minecraft backends. Read how I traced repeated database reads to one periodic check, then changed that workflow to sync when data changes.
+- **[United Exams grading source](https://github.com/nicholaslasagna/unitedexams/blob/main/lib/relational-algebra/equivalence.ts)**: Compare query results across varied table data to catch some wrong answers that happen to match on the default dataset.
 
 ### 🧠 AI & Developer Tools
 
 | Project | What I'm building | Stack / scope |
 | --- | --- | --- |
-| **[RealForge Workbench](https://nicholaslasagna.com/#realforge)** | A local-first AI coding workbench with project context, model evaluation, reviewable change proposals, and approval controls. | `Python` `React` `TypeScript` `Tauri` · Prototype; source private |
+| **[RealForge Workbench](https://nicholaslasagna.com/#realforge)** | A local-first AI coding workbench that previews proposed changes and waits for approval before writing them to the workspace. | `React` `TypeScript` `Tauri` `Rust` · Downloadable macOS preview; Workbench source private |
 | **[RealLang](https://github.com/nicholaslasagna/RealLang)** | An experimental language with a lexer, parser, type checker, structured diagnostics, and a C backend. Exploring how explicit semantics can support AI-generated code. | `Python` `C codegen` · Experimental; public source |
 
-Both are in development. RealLang explores AI-code reliability through language design and a study harness.
+RealForge’s preview requires an Imagicast account and a configured model provider for coding runs. RealLang’s study harness explores AI-code reliability; improved reliability is a research goal, not a reported result.
 
 ### ☁️ Systems & Multiplayer
 
 | Project | What it does | Stack / scope |
 | --- | --- | --- |
-| **[RealFiction](https://realfiction.live)** | A multi-server Minecraft network I architect and operate on Oracle Cloud and Ubuntu, with Java services and persistent player data. | `Java` `Velocity` `Linux` `OCI` · Live infrastructure |
+| **[RealFiction](https://realfiction.live)** | A seven-backend Minecraft network I co-own and operate, with Java services and persistent player data. See the [public web integration repository](https://github.com/nicholaslasagna/RealFiction-Web) for a separate view of the system. | `Java` `Velocity` `Linux` `OCI` · Live infrastructure |
 | **[Competitive Playable Bosses](https://github.com/NemesisSSBU/Playable_Bosses)** | A collaborative Super Smash Bros. Ultimate mod connecting playable boss behavior to the game through Rust runtime hooks, input handling, and gameplay state. | `Rust` `Runtime hooks` · Published under @NemesisSSBU |
 | **[Imagicast Studios](https://nicholaslasagna.com/#imagicast)** | Co-founder and lead developer, working on multiplayer gameplay systems in Unreal Engine. | `Unreal Engine` `C++` · Games in development |
 
@@ -61,7 +50,7 @@ Both are in development. RealLang explores AI-code reliability through language 
 | **[HeartHaven](https://github.com/nicholaslasagna/HeartHaven)** | A cozy shared browser world with companions, rooms, gardens, and mini-games. Supabase Realtime handles presence; version-checked database updates coordinate shared layouts. | `Next.js` `TypeScript` `Phaser` `Supabase` |
 | **[United Exams](https://github.com/nicholaslasagna/unitedexams)** | A course-focused study platform with quizzes, notes, practice exams, and professor workflows, backed by PostgreSQL and per-user access policies. | `Next.js` `TypeScript` `PostgreSQL` `Supabase` |
 
-**Explore:** [HeartHaven](https://realfiction.store) · [United Exams](https://unitedexams.com) · [Project details & current scope](https://nicholaslasagna.com/#work)
+**Explore:** [HeartHaven](https://realfiction.store) · [Project details & current scope](https://nicholaslasagna.com/#work)
 
 United Exams is source-available for portfolio review under its [repository license](https://github.com/nicholaslasagna/unitedexams/blob/main/LICENSE).
 
