@@ -24,7 +24,7 @@ I’m a Computer Science student at Texas Tech in the accelerated B.S./M.S. prog
 
 - **[RealForge Workbench downloads](https://github.com/nicholaslasagna/RealForge-releases/releases)**: Apple Silicon macOS preview. Inspect a proposed diff before deciding whether to apply it. [How it works and what you’ll need](https://nicholaslasagna.com/#realforge).
 - **[RealFiction engineering case study](https://nicholaslasagna.com/#realfiction-case-study)**: I lead technical operations across seven Minecraft backends. Read how I traced repeated database reads to one periodic check, then changed that workflow to sync when data changes.
-- **[United Exams grading source](https://github.com/nicholaslasagna/unitedexams/blob/main/lib/relational-algebra/equivalence.ts)**: Compare query results across varied table data to catch some wrong answers that happen to match on the default dataset.
+- **[United Exams grading source](https://github.com/nicholaslasagna/unitedexams/blob/main/lib/relational-algebra/equivalence.ts)**: Compare query results across varied table data to catch some wrong answers that happen to match on the default dataset. [See the course catalog, quizzes, and guided practice](https://github.com/nicholaslasagna/unitedexams#product-preview).
 
 ### 🧠 AI & Developer Tools
 
